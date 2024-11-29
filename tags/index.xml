@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on B0ny&#39;s Blog</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on B0ny&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Moda</title>
-      <link>//localhost:1313/tags/moda/</link>
+      <link>/tags/moda/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/moda/</guid>
+      <guid>/tags/moda/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>//localhost:1313/tags/personal/</link>
+      <link>/tags/personal/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/personal/</guid>
+      <guid>/tags/personal/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Aplicaciones</title>
-      <link>//localhost:1313/tags/aplicaciones/</link>
+      <link>/tags/aplicaciones/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/aplicaciones/</guid>
+      <guid>/tags/aplicaciones/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Programacion</title>
-      <link>//localhost:1313/tags/programacion/</link>
+      <link>/tags/programacion/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/programacion/</guid>
+      <guid>/tags/programacion/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Sistemas</title>
-      <link>//localhost:1313/tags/sistemas/</link>
+      <link>/tags/sistemas/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/sistemas/</guid>
+      <guid>/tags/sistemas/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Tecnologia</title>
-      <link>//localhost:1313/tags/tecnologia/</link>
+      <link>/tags/tecnologia/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/tecnologia/</guid>
+      <guid>/tags/tecnologia/</guid>
       <description></description>
       <content></content>
     </item>

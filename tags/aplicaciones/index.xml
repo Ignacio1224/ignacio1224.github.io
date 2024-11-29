@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aplicaciones on B0ny&#39;s Blog</title>
-    <link>//localhost:1313/tags/aplicaciones/</link>
+    <link>/tags/aplicaciones/</link>
     <description>Recent content in Aplicaciones on B0ny&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/aplicaciones/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/aplicaciones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como guardar contraseñas de aplicaciones</title>
-      <link>//localhost:1313/posts/archivos-env/</link>
+      <link>/posts/archivos-env/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/archivos-env/</guid>
+      <guid>/posts/archivos-env/</guid>
       <description>&lt;h3 id=&#34;para-ello-se-utilizan-archivos-especiales-conocidos-como-env-files&#34;&gt;Para ello se utilizan archivos especiales conocidos como &amp;ldquo;.env files&amp;rdquo;&lt;/h3&gt;
 &lt;h3 id=&#34;donde-además-se-almacenan-además-de-credenciales&#34;&gt;Donde además, se almacenan además de credenciales&lt;/h3&gt;
 &lt;h2 id=&#34;qué-son&#34;&gt;¿Qué son?&lt;/h2&gt;
