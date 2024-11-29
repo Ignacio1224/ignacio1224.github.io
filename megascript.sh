@@ -91,7 +91,7 @@ if ! git push origin main; then
     exit 1
 fi
 
-# Step 8: Push the public folder to the hostinger branch using subtree split and force push
+# Step 8: Push the public folder to the github branch using subtree split and force push
 echo "Deploying to GitHub..."
 if git branch --list | grep -q 'github-deploy'; then
     git branch -D github-deploy
@@ -103,11 +103,9 @@ if ! git subtree split --prefix public -b github-deploy; then
 fi
 
 if ! git push origin github-deploy:github --force; then
-    echo "Failed to push to hostinger branch."
+    echo "Failed to push to github branch."
     git branch -D github-deploy
     exit 1
 fi
-
-git branch -D hostinger-deploy
 
 echo "All done! Site synced, processed, committed, built, and deployed."
