@@ -67,28 +67,47 @@ if ! hugo; then
     exit 1
 fi
 
-# # Step 5: Add changes to Git
-# echo "Staging changes for Git..."
-# if git diff --quiet && git diff --cached --quiet; then
-#     echo "No changes to stage."
-# else
-#     git add .
-# fi
+# Step 5: Add changes to Git
+echo "Staging changes for Git..."
+if git diff --quiet && git diff --cached --quiet; then
+    echo "No changes to stage."
+else
+    git add .
+fi
 
-# # Step 6: Commit changes with a dynamic message
-# commit_message="New Blog Post on $(date +'%Y-%m-%d %H:%M:%S')"
-# if git diff --cached --quiet; then
-#     echo "No changes to commit."
-# else
-#     echo "Committing changes..."
-#     git commit -m "$commit_message"
-# fi
+# Step 6: Commit changes with a dynamic message
+commit_message="New Blog Post on $(date +'%Y-%m-%d %H:%M:%S')"
+if git diff --cached --quiet; then
+    echo "No changes to commit."
+else
+    echo "Committing changes..."
+    git commit -m "$commit_message"
+fi
 
-# # Step 7: Push all changes to the main branch
-# echo "Deploying to GitHub Main..."
-# if ! git push origin main; then
-#     echo "Failed to push to main branch."
-#     exit 1
-# fi
+# Step 7: Push all changes to the main branch
+echo "Deploying to GitHub Main..."
+if ! git push origin main; then
+    echo "Failed to push to main branch."
+    exit 1
+fi
+
+# Step 8: Push the public folder to the hostinger branch using subtree split and force push
+echo "Deploying to GitHub..."
+if git branch --list | grep -q 'github-deploy'; then
+    git branch -D github-deploy
+fi
+
+if ! git subtree split --prefix public -b github-deploy; then
+    echo "Subtree split failed."
+    exit 1
+fi
+
+if ! git push origin github-deploy:github --force; then
+    echo "Failed to push to hostinger branch."
+    git branch -D github-deploy
+    exit 1
+fi
+
+git branch -D hostinger-deploy
 
 echo "All done! Site synced, processed, committed, built, and deployed."
