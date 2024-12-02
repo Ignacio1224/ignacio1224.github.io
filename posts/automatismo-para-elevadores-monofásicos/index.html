@@ -174,27 +174,27 @@
 </li>
 <li>
 <p>1 Botón normalmente cerrado como interruptor general
-![[BotonIndustrial.png]]</p>
+<img alt="Image Description" src="/images/BotonIndustrial.png"></p>
 </li>
 <li>
 <p>3 Sensores los cuales definen las alturas
-![[SensorMagnetico.png]]</p>
+<img alt="Image Description" src="/images/SensorMagnetico.png"></p>
 </li>
 <li>
 <p>Arduino nano
-![[ArduinoNano.png]]</p>
+<img alt="Image Description" src="/images/ArduinoNano.png"></p>
 </li>
 <li>
 <p>Resistencias de 10 Kilo Ohm
-![[Resistencias10K.png]]</p>
+<img alt="Image Description" src="/images/Resistencias10K.png"></p>
 </li>
 <li>
 <p>Fuente de 12 V 400 ma
-![[Fuente12V400ma.png]]</p>
+<img alt="Image Description" src="/images/Fuente12V400ma.png"></p>
 </li>
 <li>
 <p>Relé
-![[RelayArduino.png]]</p>
+<img alt="Image Description" src="/images/RelayArduino.png"></p>
 </li>
 <li>
 <p>Caja para guardar la electrónica</p>
@@ -208,7 +208,7 @@
 </ul>
 <h3 id="construcción">Construcción<a href="#construcción" class="hanchor" ariaLabel="Anchor">#</a> </h3>
 <p>En primer lugar, se realizaron pruebas en un protoboard para evaluar la viabilidad de los componentes. Afortunadamente, las pruebas fueron exitosas desde el principio. Inicialmente, se consideraron llaves mecánicas como sensores, pero se desechó esta opción debido a que su uso implicaría un desgaste significativo con el tiempo.</p>
-<p>![[ProtoboardElevador.jpg]]</p>
+<p><img alt="Image Description" src="/images/ProtoboardElevador.jpg"></p>
 <p>El código para el Arduino fue escrito en lenguaje C utilizando el IDE de Arduino. En él, se definen los pines de entrada y salida, así como la lógica para determinar cuándo debe activarse o desactivarse el relé que controla el disyuntor del elevador. Además, se implementó una programación defensiva, de modo que si uno de los sensores falla, el sensor superior detiene automáticamente la acción del relé para evitar posibles fallos en el sistema.</p>
 <h3 id="código">Código<a href="#código" class="hanchor" ariaLabel="Anchor">#</a> </h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-c" data-lang="c"><span style="display:flex;"><span><span style="color:#75715e">#define  OUTPUT_PIN       (2)   </span><span style="color:#75715e">// Relay
@@ -319,13 +319,13 @@
 </span></span><span style="display:flex;"><span> 
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><h3 id="esquemático">Esquemático<a href="#esquemático" class="hanchor" ariaLabel="Anchor">#</a> </h3>
-<p>![[EsquematicoAutomatismoElevador.png]]</p>
-<p>![[EsquematicoArduinoElevador.png]]</p>
+<p><img alt="Image Description" src="/images/EsquematicoAutomatismoElevador.png"></p>
+<p><img alt="Image Description" src="/images/EsquematicoArduinoElevador.png"></p>
 <h3 id="diseño-de-la-caja">Diseño de la Caja<a href="#diseño-de-la-caja" class="hanchor" ariaLabel="Anchor">#</a> </h3>
 <p>El diseño de la caja se realizó utilizando el software Fusion 360 de Autodesk, respetando las dimensiones de los componentes que se incluirían en su interior. La caja fue diseñada para alojar de manera adecuada los cuatro botones (tres en la parte frontal y uno en la superior), así como un espacio para los cables, el Arduino, la fuente de alimentación y el relé.</p>
-<p>![[CajaElevador1.jpg]]</p>
-<p>![[CajaElevador2.jpg]]</p>
-<p>![[CajaElevador3.jpg]]</p>
+<p><img alt="Image Description" src="/images/CajaElevador1.jpg"></p>
+<p><img alt="Image Description" src="/images/CajaElevador2.jpg"></p>
+<p><img alt="Image Description" src="/images/CajaElevador3.jpg"></p>
 
       </div></div>
 
