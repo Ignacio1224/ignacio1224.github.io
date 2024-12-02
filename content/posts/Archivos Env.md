@@ -37,7 +37,7 @@ DATABASE_USERNAME="usuarioDeBaseDeDatos"
 DATABASE_PASSWORD="5sT8k)m.%.asijiHnLwnNF346"
 ```
 
-![Image Description](/images/Env%20File.png)
+![[Env File.png]]
 ## ¿Cómo se leen estos archivos?
 Dentro de cada entorno de desarrollo existen distintos paquetes que permiten realizar esta tarea, a continuación se mencionan algunos:
 

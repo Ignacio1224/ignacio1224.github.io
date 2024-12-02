@@ -36,7 +36,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;DATABASE_PORT&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;3666&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;DATABASE_USERNAME&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;usuarioDeBaseDeDatos&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;DATABASE_PASSWORD&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;5sT8k)m.%.asijiHnLwnNF346&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Env%20File.png&#34;&gt;&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;![[Env File.png]]&lt;/p&gt;
 &lt;h2 id=&#34;cómo-se-leen-estos-archivos&#34;&gt;¿Cómo se leen estos archivos?&lt;/h2&gt;
 &lt;p&gt;Dentro de cada entorno de desarrollo existen distintos paquetes que permiten realizar esta tarea, a continuación se mencionan algunos:&lt;/p&gt;
 &lt;ul&gt;

@@ -25,22 +25,22 @@ El diseño de este sistema se ha orientado a ser simple, de bajo costo y fácil 
 ### Requerimientos
 - 3 Botones normalmente abiertos para las alturas fijadas
 - 1 Botón normalmente cerrado como interruptor general
-	![Image Description](/images/BotonIndustrial.png)
+	![[BotonIndustrial.png]]
 
 - 3 Sensores los cuales definen las alturas
-	![Image Description](/images/SensorMagnetico.png)
+	![[SensorMagnetico.png]]
 
 - Arduino nano
-	![Image Description](/images/ArduinoNano.png)
+	![[ArduinoNano.png]]
 
 - Resistencias de 10 Kilo Ohm
-	![Image Description](/images/Resistencias10K.png)
+	![[Resistencias10K.png]]
 
 - Fuente de 12 V 400 ma
-	![Image Description](/images/Fuente12V400ma.png)
+	![[Fuente12V400ma.png]]
 
 - Relé
-	![Image Description](/images/RelayArduino.png)
+	![[RelayArduino.png]]
 
 - Caja para guardar la electrónica 
 - Estaño
@@ -168,9 +168,9 @@ bool isLevelReached() {
 
 ### Esquemático
 
-![Image Description](/images/EsquematicoAutomatismoElevador.png)
+![[EsquematicoAutomatismoElevador.png]]
 
-![Image Description](/images/EsquematicoArduinoElevador.png)
+![[EsquematicoArduinoElevador.png]]
 
 ### Diseño de la Caja
 
