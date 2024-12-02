@@ -25,22 +25,22 @@ El diseño de este sistema se ha orientado a ser simple, de bajo costo y fácil 
 ### Requerimientos
 - 3 Botones normalmente abiertos para las alturas fijadas
 - 1 Botón normalmente cerrado como interruptor general
-	![[BotonIndustrial.png]]
+	![Image Description](/images/BotonIndustrial.png)
 
 - 3 Sensores los cuales definen las alturas
-	![[SensorMagnetico.png]]
+	![Image Description](/images/SensorMagnetico.png)
 
 - Arduino nano
-	![[ArduinoNano.png]]
+	![Image Description](/images/ArduinoNano.png)
 
 - Resistencias de 10 Kilo Ohm
-	![[Resistencias10K.png]]
+	![Image Description](/images/Resistencias10K.png)
 
 - Fuente de 12 V 400 ma
-	![[Fuente12V400ma.png]]
+	![Image Description](/images/Fuente12V400ma.png)
 
 - Relé
-	![[RelayArduino.png]]
+	![Image Description](/images/RelayArduino.png)
 
 - Caja para guardar la electrónica 
 - Estaño
@@ -50,7 +50,7 @@ El diseño de este sistema se ha orientado a ser simple, de bajo costo y fácil 
 
 En primer lugar, se realizaron pruebas en un protoboard para evaluar la viabilidad de los componentes. Afortunadamente, las pruebas fueron exitosas desde el principio. Inicialmente, se consideraron llaves mecánicas como sensores, pero se desechó esta opción debido a que su uso implicaría un desgaste significativo con el tiempo.
 
-![[ProtoboardElevador.jpg]]
+![Image Description](/images/ProtoboardElevador.jpg)
 
 El código para el Arduino fue escrito en lenguaje C utilizando el IDE de Arduino. En él, se definen los pines de entrada y salida, así como la lógica para determinar cuándo debe activarse o desactivarse el relé que controla el disyuntor del elevador. Además, se implementó una programación defensiva, de modo que si uno de los sensores falla, el sensor superior detiene automáticamente la acción del relé para evitar posibles fallos en el sistema.
 
@@ -168,16 +168,16 @@ bool isLevelReached() {
 
 ### Esquemático
 
-![[EsquematicoAutomatismoElevador.png]]
+![Image Description](/images/EsquematicoAutomatismoElevador.png)
 
-![[EsquematicoArduinoElevador.png]]
+![Image Description](/images/EsquematicoArduinoElevador.png)
 
 ### Diseño de la Caja
 
 El diseño de la caja se realizó utilizando el software Fusion 360 de Autodesk, respetando las dimensiones de los componentes que se incluirían en su interior. La caja fue diseñada para alojar de manera adecuada los cuatro botones (tres en la parte frontal y uno en la superior), así como un espacio para los cables, el Arduino, la fuente de alimentación y el relé.
 
-![[CajaElevador1.jpg]]
+![Image Description](/images/CajaElevador1.jpg)
 
-![[CajaElevador2.jpg]]
+![Image Description](/images/CajaElevador2.jpg)
 
-![[CajaElevador3.jpg]]
+![Image Description](/images/CajaElevador3.jpg)

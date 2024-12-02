@@ -25,7 +25,7 @@ Luego de comprarlo, hice una investigación del contenido que tiene olfativament
 	Lavanda: Otorga una frescura floral.
 	Vetiver Ahumado: Da una sensación de elegancia atemporal.
 
-![[valentino.png]]
+![Image Description](/images/valentino.png)
 
 #### Historias de compras
 Un amigo tenía que comprarse un perfume para un evento ya que el de el se había agotado, me preguntó si lo acompañaba y le dije que si. Resulta que por su trabajo el tiene descuento en el lugar, luego de elegir su perfume me pregunta si estaba interesado en aprovechar su descuento. Al principio le dije que no, pero me volvió a insistir y pensé "me falta un perfume, si alguna fragancia me gusta si". Resulta y resalta que lo compré.
@@ -35,4 +35,4 @@ En uno de ellos, pasé por la sección de perfumes y vi unos con descuento, los 
 Este es "[Drakkar Intense](http://www.guylaroche.com/fragrances/drakkar-intense/)", para mi tiene un aroma amaderado con un toque muy leve de pimienta.
 Contiene bergamota, salvia, gamuza, vainilla, lavanda y pachuli
 Representando un aroma profundo y masculino, fuerza y seducción, aventura, exploración y experiencias inolvidables.
-![[drakkar_intense.png]]
+![Image Description](/images/drakkar_intense.png)

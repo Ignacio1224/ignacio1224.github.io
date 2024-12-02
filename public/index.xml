@@ -27,27 +27,27 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;1 Botón normalmente cerrado como interruptor general
-![[BotonIndustrial.png]]&lt;/p&gt;
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/BotonIndustrial.png&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;3 Sensores los cuales definen las alturas
-![[SensorMagnetico.png]]&lt;/p&gt;
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/SensorMagnetico.png&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Arduino nano
-![[ArduinoNano.png]]&lt;/p&gt;
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/ArduinoNano.png&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Resistencias de 10 Kilo Ohm
-![[Resistencias10K.png]]&lt;/p&gt;
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Resistencias10K.png&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Fuente de 12 V 400 ma
-![[Fuente12V400ma.png]]&lt;/p&gt;
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Fuente12V400ma.png&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Relé
-![[RelayArduino.png]]&lt;/p&gt;
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/RelayArduino.png&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Caja para guardar la electrónica&lt;/p&gt;
@@ -61,7 +61,7 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;construcción&#34;&gt;Construcción&lt;/h3&gt;
 &lt;p&gt;En primer lugar, se realizaron pruebas en un protoboard para evaluar la viabilidad de los componentes. Afortunadamente, las pruebas fueron exitosas desde el principio. Inicialmente, se consideraron llaves mecánicas como sensores, pero se desechó esta opción debido a que su uso implicaría un desgaste significativo con el tiempo.&lt;/p&gt;
-&lt;p&gt;![[ProtoboardElevador.jpg]]&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/ProtoboardElevador.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;El código para el Arduino fue escrito en lenguaje C utilizando el IDE de Arduino. En él, se definen los pines de entrada y salida, así como la lógica para determinar cuándo debe activarse o desactivarse el relé que controla el disyuntor del elevador. Además, se implementó una programación defensiva, de modo que si uno de los sensores falla, el sensor superior detiene automáticamente la acción del relé para evitar posibles fallos en el sistema.&lt;/p&gt;
 &lt;h3 id=&#34;código&#34;&gt;Código&lt;/h3&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#define  OUTPUT_PIN       (2)   &lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// Relay
@@ -172,13 +172,13 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; 
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;esquemático&#34;&gt;Esquemático&lt;/h3&gt;
-&lt;p&gt;![[EsquematicoAutomatismoElevador.png]]&lt;/p&gt;
-&lt;p&gt;![[EsquematicoArduinoElevador.png]]&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/EsquematicoAutomatismoElevador.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/EsquematicoArduinoElevador.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;diseño-de-la-caja&#34;&gt;Diseño de la Caja&lt;/h3&gt;
 &lt;p&gt;El diseño de la caja se realizó utilizando el software Fusion 360 de Autodesk, respetando las dimensiones de los componentes que se incluirían en su interior. La caja fue diseñada para alojar de manera adecuada los cuatro botones (tres en la parte frontal y uno en la superior), así como un espacio para los cables, el Arduino, la fuente de alimentación y el relé.&lt;/p&gt;
-&lt;p&gt;![[CajaElevador1.jpg]]&lt;/p&gt;
-&lt;p&gt;![[CajaElevador2.jpg]]&lt;/p&gt;
-&lt;p&gt;![[CajaElevador3.jpg]]&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/CajaElevador1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/CajaElevador2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/CajaElevador3.jpg&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
@@ -370,7 +370,7 @@ En este aspecto me decanté por el &amp;ldquo;&lt;a href=&#34;https://www.valent
 Vainilla Bourbon: Infunde a la fragancia en tonos cálidos y sensuales.
 Lavanda: Otorga una frescura floral.
 Vetiver Ahumado: Da una sensación de elegancia atemporal.&lt;/p&gt;
-&lt;p&gt;![[valentino.png]]&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/valentino.png&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;historias-de-compras&#34;&gt;Historias de compras&lt;/h4&gt;
 &lt;p&gt;Un amigo tenía que comprarse un perfume para un evento ya que el de el se había agotado, me preguntó si lo acompañaba y le dije que si. Resulta que por su trabajo el tiene descuento en el lugar, luego de elegir su perfume me pregunta si estaba interesado en aprovechar su descuento. Al principio le dije que no, pero me volvió a insistir y pensé &amp;ldquo;me falta un perfume, si alguna fragancia me gusta si&amp;rdquo;. Resulta y resalta que lo compré.&lt;/p&gt;
 &lt;p&gt;El segundo perfume lo terminé comprando de rebote, en un viaje que hice al interior del país me tocó pasar por la frontera, como todos lo uruguayos, si estamos en la frontera vamos a los free-shops a &amp;ldquo;chusmiar&amp;rdquo; que hay.
@@ -378,7 +378,7 @@ En uno de ellos, pasé por la sección de perfumes y vi unos con descuento, los 
 Este es &amp;ldquo;&lt;a href=&#34;http://www.guylaroche.com/fragrances/drakkar-intense/&#34;&gt;Drakkar Intense&lt;/a&gt;&amp;rdquo;, para mi tiene un aroma amaderado con un toque muy leve de pimienta.
 Contiene bergamota, salvia, gamuza, vainilla, lavanda y pachuli
 Representando un aroma profundo y masculino, fuerza y seducción, aventura, exploración y experiencias inolvidables.
-![[drakkar_intense.png]]&lt;/p&gt;
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/drakkar_intense.png&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
@@ -411,7 +411,7 @@ Representando un aroma profundo y masculino, fuerza y seducción, aventura, expl
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;DATABASE_PORT&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;3666&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;DATABASE_USERNAME&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;usuarioDeBaseDeDatos&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;DATABASE_PASSWORD&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;5sT8k)m.%.asijiHnLwnNF346&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;![[Env File.png]]&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Env%20File.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;cómo-se-leen-estos-archivos&#34;&gt;¿Cómo se leen estos archivos?&lt;/h2&gt;
 &lt;p&gt;Dentro de cada entorno de desarrollo existen distintos paquetes que permiten realizar esta tarea, a continuación se mencionan algunos:&lt;/p&gt;
 &lt;ul&gt;
