@@ -6,11 +6,11 @@
     <description>Recent content in Tags on B0ny&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arduino</title>
       <link>/tags/arduino/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/arduino/</guid>
       <description></description>
@@ -20,7 +20,7 @@
     <item>
       <title>Electronica</title>
       <link>/tags/electronica/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/electronica/</guid>
       <description></description>
@@ -28,19 +28,9 @@
     </item>
     
     <item>
-      <title>GTA</title>
-      <link>/tags/gta/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/gta/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>Impresion3D</title>
       <link>/tags/impresion3d/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/impresion3d/</guid>
       <description></description>
@@ -48,19 +38,9 @@
     </item>
     
     <item>
-      <title>Juegos</title>
-      <link>/tags/juegos/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/juegos/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>LenguajeC</title>
       <link>/tags/lenguajec/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/lenguajec/</guid>
       <description></description>
@@ -70,9 +50,79 @@
     <item>
       <title>Microcontroladores</title>
       <link>/tags/microcontroladores/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/microcontroladores/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Programacion</title>
+      <link>/tags/programacion/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/programacion/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Sistemas</title>
+      <link>/tags/sistemas/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sistemas/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Tecnologia</title>
+      <link>/tags/tecnologia/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tecnologia/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>GTA</title>
+      <link>/tags/gta/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gta/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Juegos</title>
+      <link>/tags/juegos/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/juegos/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>/tags/personal/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/personal/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>ViceCity</title>
+      <link>/tags/vicecity/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vicecity/</guid>
       <description></description>
       <content></content>
     </item>
@@ -83,56 +133,6 @@
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/moda/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Personal</title>
-      <link>/tags/personal/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/personal/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Programacion</title>
-      <link>/tags/programacion/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/programacion/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Sistemas</title>
-      <link>/tags/sistemas/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sistemas/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Tecnologia</title>
-      <link>/tags/tecnologia/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tecnologia/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>ViceCity</title>
-      <link>/tags/vicecity/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/vicecity/</guid>
       <description></description>
       <content></content>
     </item>
