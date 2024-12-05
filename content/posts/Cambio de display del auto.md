@@ -50,7 +50,7 @@ Estos conectores tienen formas y colores distintos por lo que es fácil diferenc
 
 Una vez fuera, en una mesa se procede a desarmarlo para llegar al display y reemplazarlo.
 
-Puedes seguir [este tutorial](https://www.youtube.com/watch?v=mUtkniUMxqc&t=834s).
+Puedes seguir [este tutorial](https://www.youtube.com/watch?v=mUtkniUMxqc).
 
 Aquí una secuencia de imágenes del proceso.
 ![Image Description](/images/DisplayRoto.jpg)
@@ -62,3 +62,6 @@ Aquí una secuencia de imágenes del proceso.
 ![Image Description](/images/CambioDisplayResultado.jpg)
 
 Recuerda que al volver a conectar el tablero, debes de configurar nuevamente la fecha y hora.
+
+En resumen fue bastante sencillo, lo mas tedioso es soldar los pines del nuevo display, sin embargo, pre-estañándolos y apoyando el cautín arriba de los nuevos es bastante fácil. (Se forma como un sandwich entre el PCB, el estaño y el flex del conector).
+Recomiendo ayudarse de una buena lupa y luz para limpiar la zona y evitar cortocircuitos, además de intentar probarlo antes de cerrar todo.
