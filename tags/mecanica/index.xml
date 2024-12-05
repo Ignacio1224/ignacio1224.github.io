@@ -41,13 +41,15 @@ Estos plásticos son de encastre, por lo que con alguna herramienta plástica se
 &lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/ConectorTablero.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Estos conectores tienen formas y colores distintos por lo que es fácil diferenciarlos. Para retirarlos se levanta la pieza móvil, en este caso violeta. En todos es igual, varía el color.&lt;/p&gt;
 &lt;p&gt;Una vez fuera, en una mesa se procede a desarmarlo para llegar al display y reemplazarlo.&lt;/p&gt;
-&lt;p&gt;Puedes seguir &lt;a href=&#34;https://www.youtube.com/watch?v=mUtkniUMxqc&amp;t=834s&#34;&gt;este tutorial&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Puedes seguir &lt;a href=&#34;https://www.youtube.com/watch?v=mUtkniUMxqc&#34;&gt;este tutorial&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Aquí una secuencia de imágenes del proceso.
 &lt;img alt=&#34;Image Description&#34; src=&#34;/images/DisplayRoto.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/CambioDisplay2.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/CambioDisplay1.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/CambioDisplayResultado.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Recuerda que al volver a conectar el tablero, debes de configurar nuevamente la fecha y hora.&lt;/p&gt;
+&lt;p&gt;En resumen fue bastante sencillo, lo mas tedioso es soldar los pines del nuevo display, sin embargo, pre-estañándolos y apoyando el cautín arriba de los nuevos es bastante fácil. (Se forma como un sandwich entre el PCB, el estaño y el flex del conector).
+Recomiendo ayudarse de una buena lupa y luz para limpiar la zona y evitar cortocircuitos, además de intentar probarlo antes de cerrar todo.&lt;/p&gt;
 </content>
     </item>
     
