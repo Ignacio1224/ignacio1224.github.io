@@ -15,7 +15,9 @@ A continuación les comento mi visión del panorama sobre quien es mejor...
 
 **Respuesta larga**:
 
-- Para todo lo que tenga que ver con ingeniería de software, análisis de datos, etc --> Linux.
+- Linux:
+	Para todo lo que tenga que ver con ingeniería de software, análisis de datos, etc.
 
-- Para todo lo demás --> Windows
-	Edición de fotos, juegos, lo que hacen las personas normales, no los ñoños.
+
+- Windows:
+	Para todo lo demás. Edición de fotos, juegos, lo que hacen las personas normales, no los ñoños.
