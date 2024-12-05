@@ -11,6 +11,7 @@ tags:
   - arduino
   - electronica
   - lenguajeC
+  - soldar
 ---
 ## Situación
 
