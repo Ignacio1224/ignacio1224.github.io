@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mecanica on B0ny&#39;s Blog</title>
+    <link>/tags/mecanica/</link>
+    <description>Recent content in Mecanica on B0ny&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mecanica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cambio de display del auto</title>
+      <link>/posts/cambio-de-display-del-auto/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/cambio-de-display-del-auto/</guid>
+      <description>&lt;p&gt;En esta breve historia les voy a comentar como hice el cambio de display de mi auto, porque #pobreza lo hice yo.&lt;/p&gt;
+&lt;p&gt;A la fecha tengo un Audi A4 1.9 TDI del año 2001, el cual tenía el display roto. Esto significa que tenía partes en las que no se visualizaban las imágenes, textos, códigos de avería e información útil para el conductor.
+Por lo que decidí reemplazarlo.&lt;/p&gt;
+&lt;p&gt;Parece ser que es una falla bastante común en los vehículos Audi esto.&lt;/p&gt;</description>
+      <content>&lt;p&gt;En esta breve historia les voy a comentar como hice el cambio de display de mi auto, porque #pobreza lo hice yo.&lt;/p&gt;
+&lt;p&gt;A la fecha tengo un Audi A4 1.9 TDI del año 2001, el cual tenía el display roto. Esto significa que tenía partes en las que no se visualizaban las imágenes, textos, códigos de avería e información útil para el conductor.
+Por lo que decidí reemplazarlo.&lt;/p&gt;
+&lt;p&gt;Parece ser que es una falla bastante común en los vehículos Audi esto.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/DisplayRoto.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;importación&#34;&gt;Importación&lt;/h3&gt;
+&lt;p&gt;Lo primero, conseguir el recambio.
+Las casas de repuesto en Uruguay no traen esta pieza por lo que toca importarla.
+Buscando información en san Google, encuentro la pieza, por lo que la busco en &lt;a href=&#34;https://www.amazon.com/dp/B09JKLY865?ref=ppx_yo2ov_dt_b_fed_asin_title&#34;&gt;Amazon&lt;/a&gt; y la compro.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/DisplayNuevo.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Con el nuevo display procedo a desarmar el tablero del auto.
+Quiero remarcar que esta vez, los ingenieros que lo diseñaron fueron bastante bondadosos y lo hicieron fácil para nosotros.&lt;/p&gt;
+&lt;p&gt;Para proceder con el desmontaje primero se debe bajar el volante y tirarlo lo mas afuera posible.&lt;/p&gt;
+&lt;p&gt;Luego remover el plástico encastrado con el cobertor de los tornillos que se dobla hacia atrás.
+Estos plásticos son de encastre, por lo que con alguna herramienta plástica se debe de hacer palanca para no dañarlos.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/DesmonteTablero1.png&#34;&gt;
+&lt;em&gt;Las flechas en color naranja &amp;ndash;&amp;gt; Jalar&lt;/em&gt;
+&lt;em&gt;Las flechas en color azul &amp;ndash;&amp;gt; Remover&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Una vez quitado los plásticos, remover los tornillos de métrica &lt;em&gt;Torks 20&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/TornillosTablero.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Se puede jalar el tablero desde los botones negros con mucho cuidado para haciendo espacio para desconectar los 3 conectores de cables.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/ConectorTablero.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Estos conectores tienen formas y colores distintos por lo que es fácil diferenciarlos. Para retirarlos se levanta la pieza móvil, en este caso violeta. En todos es igual, varía el color.&lt;/p&gt;
+&lt;p&gt;Una vez fuera, en una mesa se procede a desarmarlo para llegar al display y reemplazarlo.&lt;/p&gt;
+&lt;p&gt;Puedes seguir &lt;a href=&#34;https://www.youtube.com/watch?v=mUtkniUMxqc&amp;t=834s&#34;&gt;este tutorial&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Aquí una secuencia de imágenes del proceso.
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/DisplayRoto.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/CambioDisplay2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/CambioDisplay1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/CambioDisplayResultado.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Recuerda que al volver a conectar el tablero, debes de configurar nuevamente la fecha y hora.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
