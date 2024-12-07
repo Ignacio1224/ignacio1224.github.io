@@ -6,11 +6,11 @@
     <description>Recent content in Tags on B0ny&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Audi</title>
       <link>/tags/audi/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/audi/</guid>
       <description></description>
@@ -20,9 +20,29 @@
     <item>
       <title>Auto</title>
       <link>/tags/auto/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/auto/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Impresion3D</title>
+      <link>/tags/impresion3d/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/impresion3d/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>/tags/personal/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/personal/</guid>
       <description></description>
       <content></content>
     </item>
@@ -53,16 +73,6 @@
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/soldar/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Personal</title>
-      <link>/tags/personal/</link>
-      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/personal/</guid>
       <description></description>
       <content></content>
     </item>
@@ -103,16 +113,6 @@
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/electronica/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Impresion3D</title>
-      <link>/tags/impresion3d/</link>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/impresion3d/</guid>
       <description></description>
       <content></content>
     </item>
