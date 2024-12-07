@@ -6,7 +6,35 @@
     <description>Recent content in Posts on B0ny&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Panel de la radio</title>
+      <link>/posts/panel-de-la-radio/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/panel-de-la-radio/</guid>
+      <description>&lt;p&gt;En esta oportunidad les voy a comentar mi experiencia realizando un plástico cobertor para la radio del auto.&lt;/p&gt;
+&lt;p&gt;En pos de mejorar las funcionalidades de mi vehículo, hace un tiempo compre una radio con pantalla de marca Pioneer, de sonido, genial, lo demás una bosta.
+La radio entra en el tablero del auto, sin embargo hay que colocarle un plástico para que se sostenga firmemente y además sea medianamente estético.&lt;/p&gt;</description>
+      <content>&lt;p&gt;En esta oportunidad les voy a comentar mi experiencia realizando un plástico cobertor para la radio del auto.&lt;/p&gt;
+&lt;p&gt;En pos de mejorar las funcionalidades de mi vehículo, hace un tiempo compre una radio con pantalla de marca Pioneer, de sonido, genial, lo demás una bosta.
+La radio entra en el tablero del auto, sin embargo hay que colocarle un plástico para que se sostenga firmemente y además sea medianamente estético.&lt;/p&gt;
+&lt;p&gt;Para comenzar, le tomé las medidas a la radio, continuando con las del boquete del tablero del auto.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/RadioHole.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Luego, utilizando el programa Fusion 360, diseñé la tapa para recubrir esto y sostener la radio.
+Para luego imprimirla en 3D con el materia PLA+, que es fácil de imprimir, sirve para pruebas pero no es muy resistente. (Luego se hizo en ABS que es más duradero).&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/RadioCoverPlateDesign2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/RadioCoverPlateDesign1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Las flechas en azul marcan los lugares para colocar la goma al rededor.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/RadioCoverPlate1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Como dato curioso, al diseñar la pieza, se le hizo un calado, (canaleta) en los bordes para poder colocar una goma y así absorber las vibraciones y evitar ruidos molestos.&lt;/p&gt;
+&lt;p&gt;Para terminar con el siguiente resultado
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/RadioCoverPlate.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;El color no es el mismo, sin embargo, en este momento no me preocupa, ya que quiero validar la idea y el prototipo un tiempo para imprimirlo en ABS y que sea el definitivo.&lt;/p&gt;
+&lt;p&gt;En conclusión, el proyecto fue satisfactorio y bastante fácil de realizar al ser un modelo prismático con algún que otro esteroide.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Cambio de display del auto</title>
       <link>/posts/cambio-de-display-del-auto/</link>
