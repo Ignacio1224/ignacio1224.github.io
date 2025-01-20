@@ -2,28 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/impresion3d/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/impresora-3d/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/personal/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tecnologia/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/los-masajes-en-mi-vida/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/salud/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/aplicaciones/</loc>
+    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/hardware-vs-software/</loc>
+    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/programacion/</loc>
+    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sistemas/</loc>
+    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/iphone-vs-samsung/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/audi/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/auto/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/impresion3d/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/panel-de-la-radio/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/personal/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/cambio-de-display-del-auto/</loc>
@@ -37,12 +64,6 @@
   </url><url>
     <loc>/tags/soldar/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/programacion/</loc>
-    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/tecnologia/</loc>
-    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/windows-vs-linux/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -62,9 +83,6 @@
     <loc>/tags/microcontroladores/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/sistemas/</loc>
-    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/gta/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -82,9 +100,6 @@
   </url><url>
     <loc>/posts/perfumes-que-uso/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/aplicaciones/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/archivos-env/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
