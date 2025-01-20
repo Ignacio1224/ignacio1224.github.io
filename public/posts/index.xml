@@ -55,14 +55,22 @@ Debido a esta mención se lo comenté a una amiga, que le mando un fuerte abrazo
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/hardware-vs-software/</guid>
-      <description>&lt;p&gt;Hardware es lo que golpeas.
-&lt;em&gt;Putazo a la computadora&lt;/em&gt;
-Software es lo que cuando se tranca lo insultas.
-&lt;em&gt;Feibu de mierda, siempre está trancado esta porquería&lt;/em&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;Hardware es lo que golpeas.
-&lt;em&gt;Putazo a la computadora&lt;/em&gt;
-Software es lo que cuando se tranca lo insultas.
-&lt;em&gt;Feibu de mierda, siempre está trancado esta porquería&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Hardware es lo que golpeas.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Putazo a la computadora&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Software es lo que cuando se tranca lo insultas.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Feibu de mierda, siempre está trancado esta porquería&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;p&gt;Hardware es lo que golpeas.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Putazo a la computadora&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Software es lo que cuando se tranca lo insultas.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Feibu de mierda, siempre está trancado esta porquería&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     </item>
     

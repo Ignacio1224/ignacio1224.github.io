@@ -9,6 +9,7 @@ tags:
   - programacion
 ---
 Hardware es lo que golpeas.
-	*Putazo a la computadora*
+- *Putazo a la computadora*
+
 Software es lo que cuando se tranca lo insultas.
-	*Feibu de mierda, siempre está trancado esta porquería*
+- *Feibu de mierda, siempre está trancado esta porquería*
