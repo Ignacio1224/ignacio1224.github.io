@@ -20,16 +20,16 @@ La radio entra en el tablero del auto, sin embargo hay que colocarle un plástic
 &lt;p&gt;En pos de mejorar las funcionalidades de mi vehículo, hace un tiempo compre una radio con pantalla de marca Pioneer, de sonido, genial, lo demás una bosta.
 La radio entra en el tablero del auto, sin embargo hay que colocarle un plástico para que se sostenga firmemente y además sea medianamente estético.&lt;/p&gt;
 &lt;p&gt;Para comenzar, le tomé las medidas a la radio, continuando con las del boquete del tablero del auto.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/RadioHole.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/RadioHole.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Luego, utilizando el programa Fusion 360, diseñé la tapa para recubrir esto y sostener la radio.
 Para luego imprimirla en 3D con el materia PLA+, que es fácil de imprimir, sirve para pruebas pero no es muy resistente. (Luego se hizo en ABS que es más duradero).&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/RadioCoverPlateDesign2.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/RadioCoverPlateDesign1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/RadioCoverPlateDesign2.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/RadioCoverPlateDesign1.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Las flechas en azul marcan los lugares para colocar la goma al rededor.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/RadioCoverPlate1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/RadioCoverPlate1.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Como dato curioso, al diseñar la pieza, se le hizo un calado, (canaleta) en los bordes para poder colocar una goma y así absorber las vibraciones y evitar ruidos molestos.&lt;/p&gt;
 &lt;p&gt;Para terminar con el siguiente resultado
-&lt;img alt=&#34;Image Description&#34; src=&#34;/images/RadioCoverPlate.jpg&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;/images/RadioCoverPlate.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;El color no es el mismo, sin embargo, en este momento no me preocupa, ya que quiero validar la idea y el prototipo un tiempo para imprimirlo en ABS y que sea el definitivo.&lt;/p&gt;
 &lt;p&gt;En conclusión, el proyecto fue satisfactorio y bastante fácil de realizar al ser un modelo prismático con algún que otro esteroide.&lt;/p&gt;
 </content>
@@ -49,32 +49,32 @@ Por lo que decidí reemplazarlo.&lt;/p&gt;
 &lt;p&gt;A la fecha tengo un Audi A4 1.9 TDI del año 2001, el cual tenía el display roto. Esto significa que tenía partes en las que no se visualizaban las imágenes, textos, códigos de avería e información útil para el conductor.
 Por lo que decidí reemplazarlo.&lt;/p&gt;
 &lt;p&gt;Parece ser que es una falla bastante común en los vehículos Audi esto.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/DisplayRoto.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/DisplayRoto.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;importación&#34;&gt;Importación&lt;/h3&gt;
 &lt;p&gt;Lo primero, conseguir el recambio.
 Las casas de repuesto en Uruguay no traen esta pieza por lo que toca importarla.
 Buscando información en san Google, encuentro la pieza, por lo que la busco en &lt;a href=&#34;https://www.amazon.com/dp/B09JKLY865?ref=ppx_yo2ov_dt_b_fed_asin_title&#34;&gt;Amazon&lt;/a&gt; y la compro.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/DisplayNuevo.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/DisplayNuevo.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Con el nuevo display procedo a desarmar el tablero del auto.
 Quiero remarcar que esta vez, los ingenieros que lo diseñaron fueron bastante bondadosos y lo hicieron fácil para nosotros.&lt;/p&gt;
 &lt;p&gt;Para proceder con el desmontaje primero se debe bajar el volante y tirarlo lo mas afuera posible.&lt;/p&gt;
 &lt;p&gt;Luego remover el plástico encastrado con el cobertor de los tornillos que se dobla hacia atrás.
 Estos plásticos son de encastre, por lo que con alguna herramienta plástica se debe de hacer palanca para no dañarlos.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/DesmonteTablero1.png&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;/images/DesmonteTablero1.png&#34; alt=&#34;Image Description&#34;&gt;
 &lt;em&gt;Las flechas en color naranja &amp;ndash;&amp;gt; Jalar&lt;/em&gt;
 &lt;em&gt;Las flechas en color azul &amp;ndash;&amp;gt; Remover&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Una vez quitado los plásticos, remover los tornillos de métrica &lt;em&gt;Torks 20&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/TornillosTablero.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/TornillosTablero.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Se puede jalar el tablero desde los botones negros con mucho cuidado para haciendo espacio para desconectar los 3 conectores de cables.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/ConectorTablero.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/ConectorTablero.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Estos conectores tienen formas y colores distintos por lo que es fácil diferenciarlos. Para retirarlos se levanta la pieza móvil, en este caso violeta. En todos es igual, varía el color.&lt;/p&gt;
 &lt;p&gt;Una vez fuera, en una mesa se procede a desarmarlo para llegar al display y reemplazarlo.&lt;/p&gt;
 &lt;p&gt;Puedes seguir &lt;a href=&#34;https://www.youtube.com/watch?v=mUtkniUMxqc&#34;&gt;este tutorial&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Aquí una secuencia de imágenes del proceso.
-&lt;img alt=&#34;Image Description&#34; src=&#34;/images/DisplayRoto.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/CambioDisplay2.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/CambioDisplay1.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/CambioDisplayResultado.jpg&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;/images/DisplayRoto.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/CambioDisplay2.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/CambioDisplay1.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/CambioDisplayResultado.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Recuerda que al volver a conectar el tablero, debes de configurar nuevamente la fecha y hora.&lt;/p&gt;
 &lt;p&gt;En resumen fue bastante sencillo, lo mas tedioso es soldar los pines del nuevo display, sin embargo, pre-estañándolos y apoyando el cautín arriba de los nuevos es bastante fácil. (Se forma como un sandwich entre el PCB, el estaño y el flex del conector).
 Recomiendo ayudarse de una buena lupa y luz para limpiar la zona y evitar cortocircuitos, además de intentar probarlo antes de cerrar todo.&lt;/p&gt;
